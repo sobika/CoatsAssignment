@@ -51,11 +51,7 @@ on 28.March.2017
 
 **Hackathon**
 
-- Participated in HCL Hackathon on 26.08.2018
-
-**Workshop**
-
-- Attended Natural Processing Language program in Thiyagaraja Engineering College,Madurai on April 2017.
+- Participated in HCL Hackathon on 26.08.2018.
 
 **Symposium**
 
@@ -73,8 +69,7 @@ on 28.March.2017
 # Certification
 
 - **Python(Basics)** in Venus Institute during April-May 2019.
-- **Diploma in MS-Office** in Computer Software College (CSC) during 21.June.2010 to 21.August.2010.
-- **Diploma in Graphics and Animation** in Computer Software College (CSC) during 05.May.2009 to 05.June.2009.
+- **Diploma in MS-Office** (Word,Excel, PowerPoint) in Computer Software College (CSC) during 21.June.2010 to 21.August.2010.
 
 # Personal Details
 
